@@ -1,0 +1,64 @@
+body{
+    
+}
+.tituloprincipal{
+    text-align: center;
+}
+#barberia{
+    width: 50%;
+    border: 6px solid#000000;
+
+}
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+    margin: 15px;
+    border: 2px solid#000000;
+    padding-left: 0cm;
+}
+
+
+
+p{
+    text-align: center;
+}
+ 
+em strong{
+    color: red
+}
+
+#mision{
+  font-size: 25px;    
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.titulo-centrado{
+    text-align: center;
+}
+
+
+.items{
+
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 35%;
+    font-size: 25px;
+
+}
+
+.imagenDiferencial{
+    width: 30%;
+    
+}
